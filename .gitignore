@@ -1,1 +1,2 @@
-.asteroids_venv
+.asteroids_venv/
+__pycache__/
